@@ -5,3 +5,5 @@ end
 def loop_message_n_times(string, number)
   number.times {puts string}
 end
+
+def output_array(string, number)
