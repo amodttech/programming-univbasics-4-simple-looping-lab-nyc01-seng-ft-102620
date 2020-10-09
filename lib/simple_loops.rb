@@ -13,3 +13,7 @@ def output_array(array)
     counter += 1
   end  
 end
+
+def return_string_array()
+  
+end
